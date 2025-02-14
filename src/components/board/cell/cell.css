@@ -1,0 +1,7 @@
+.square{
+  background: #008000;
+  border: 5px solid #000;
+  height: 12.5%;
+  width: 12.5%;
+  cursor: pointer;
+}
